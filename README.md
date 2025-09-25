@@ -53,21 +53,18 @@ The core analysis is contained in a series of Jupyter Notebooks. Please execute 
 ### 1. Reverse Intervention 
 The notebook `01_reverse_intervention.ipynb` is responsible for generating token sets according to domain pairs by running intervention tests on a domain pair and seeing which tokens change the most on average.
 
-For example, If we take the C++ and Python dataset, 
+For example, If we take the C++ and Python dataset, after interventions, we find tokens that are promoted the most for that particular intervening dataset for each layer. Averaging over all layers we get a set of ranked tokens that show highest promotion. These form our Characteristic token set. 
+These token sets are stored in `token_sets/` directory. 
 
+### 2. All Model Causal Intervention
+The notebook `02_all_model_causal.ipynb` contains code to run and do causal analysis on 4 models, 
+Gemma 4B, Gemma 1B, Llama 3B, Llama 1B. It is advisable to set the `DTYPE` to torch.float32 or torch.bfloat16 for best performance. 
+The prompts are taken from `prompt_set/` directory and the characteristic token set from the previously generated `token_sets/` directory. Fisher score is present in `scores/` directory. 
 
+Output of this notebook is stored in `full_compute/` as json files for each model. 
 
+### 3. Graph Generation 
+The notebook `03_graph_generator.ipynb` processes outpuut from `full_compute/` to generate required graphs in the `graphs/` directory. 
 
-
-### Supplementary material
-
-A. results on other models (4 subsections)
-B. Datasets 
-C. evaluations 
-D. Experimental Setup
-E. Extended discussion  
-    - Hydra effect 
-    - Low high level abstraction level of tasks (why we chose fisher and mmd)
-    - token set 
-    - bias definition
-    - all blue appendix (agar koi reh gye)
+### 4. Prompt Visualization
+ 
