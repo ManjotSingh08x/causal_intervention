@@ -1,0 +1,402 @@
+[
+  {
+    "cpp_top": "Write a short function in C++ that returns the n-th Fibonacci number.\nRespond with code only.\n```",
+    "python_top": "Write a short function in Python that returns the n-th Fibonacci number.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that checks if a number is prime.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that checks if a number is prime.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute the factorial of a number using recursion.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute the factorial of a number using recursion.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that reverses a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that reverses a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that finds the maximum element in an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that finds the maximum element in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that sorts an array using bubble sort.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that sorts a list using bubble sort.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that counts vowels in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that counts vowels in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute the greatest common divisor (GCD) of two numbers.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute the greatest common divisor (GCD) of two numbers.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if a string is a palindrome.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if a string is a palindrome.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that computes the sum of digits of an integer.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that computes the sum of digits of an integer.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute n choose k (binomial coefficient).\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute n choose k (binomial coefficient).\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to perform linear search in an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to perform linear search in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to perform binary search in a sorted array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to perform binary search in a sorted list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that swaps two numbers without using a temporary variable.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that swaps two numbers without using a temporary variable.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that computes the power of a number (a^b).\nRespond with code only.\n```",
+    "python_top": "Write a Python function that computes the power of a number (a^b).\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that generates the first n prime numbers.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that generates the first n prime numbers.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to reverse an array in place.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to reverse a list in place.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that removes duplicates from a sorted vector of integers.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that removes duplicates from a sorted list of integers.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that checks if a year is a leap year.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that checks if a year is a leap year.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that computes the nth triangular number.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that computes the nth triangular number.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that merges two sorted arrays.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that merges two sorted lists.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute the length of a string without using built-in functions.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute the length of a string without using len().\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to convert Celsius to Fahrenheit.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to convert Celsius to Fahrenheit.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if an integer is even or odd.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if an integer is even or odd.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute the sum of elements in a vector.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute the sum of elements in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that finds the minimum element in an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that finds the minimum element in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that checks if two strings are anagrams.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that checks if two strings are anagrams.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute the factorial of a number using iteration.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute the factorial of a number using iteration.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the first non-repeated character in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the first non-repeated character in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to calculate the average of elements in a vector of doubles.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to calculate the average of elements in a list of floats.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that sorts an array using selection sort.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that sorts a list using selection sort.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that counts the number of words in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that counts the number of words in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to compute the least common multiple (LCM) of two numbers.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to compute the least common multiple (LCM) of two numbers.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that rotates an array to the left by k positions.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that rotates a list to the left by k positions.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if a number is a power of two.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if a number is a power of two.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that removes all whitespace from a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that removes all whitespace from a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the second largest element in an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the second largest element in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that converts a given string to uppercase.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that converts a given string to uppercase.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that counts the frequency of each character in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that counts the frequency of each character in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find all pairs in an array whose sum is equal to a given number.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find all pairs in a list whose sum is equal to a given number.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that implements a stack using a std::vector.\nRespond with code only.\n```",
+    "python_top": "Write a Python class that implements a stack using a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that checks if parentheses in a string are balanced.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that checks if parentheses in a string are balanced.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that sorts an array using insertion sort.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that sorts a list using insertion sort.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that finds the intersection of two arrays.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that finds the intersection of two lists.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that counts the number of set bits in an integer.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that counts the number of set bits in an integer.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ class that implements a queue using two stacks.\nRespond with code only.\n```",
+    "python_top": "Write a Python class that implements a queue using two lists.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to reverse the order of words in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to reverse the order of words in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the missing number in an array containing numbers from 1 to n.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the missing number in a list containing numbers from 1 to n.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that converts a decimal number to its binary representation.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that converts a decimal number to its binary representation.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to sort a vector of strings alphabetically.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to sort a list of strings alphabetically.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that finds the union of two arrays.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that finds the union of two lists.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to calculate the transpose of a matrix.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to calculate the transpose of a matrix.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ class that implements a singly linked list.\nRespond with code only.\n```",
+    "python_top": "Write a Python class that implements a singly linked list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the middle element of a linked list.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the middle element of a linked list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that reverses a singly linked list.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that reverses a singly linked list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to detect a cycle in a linked list.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to detect a cycle in a linked list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to sort an array of 0s, 1s, and 2s.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to sort a list of 0s, 1s, and 2s.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the longest common prefix among a vector of strings.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the longest common prefix among a list of strings.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ class that implements a binary search tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python class that implements a binary search tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to perform an in-order traversal of a binary tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to perform an in-order traversal of a binary tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to perform a pre-order traversal of a binary tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to perform a pre-order traversal of a binary tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to perform a post-order traversal of a binary tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to perform a post-order traversal of a binary tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the height of a binary tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the height of a binary tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if a binary tree is a valid binary search tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if a binary tree is a valid binary search tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the k-th smallest element in an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the k-th smallest element in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that generates all permutations of a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that generates all permutations of a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function for matrix multiplication.\nRespond with code only.\n```",
+    "python_top": "Write a Python function for matrix multiplication.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the majority element in an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the majority element in a list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if a string contains only digits.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if a string contains only digits.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that capitalizes the first letter of each word in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that capitalizes the first letter of each word in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the first occurrence of a substring in a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the first occurrence of a substring in a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to implement the Sieve of Eratosthenes.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to implement the Sieve of Eratosthenes.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that removes duplicate characters from a string.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that removes duplicate characters from a string.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the longest substring without repeating characters.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the longest substring without repeating characters.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that rotates an array to the right by k positions.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that rotates a list to the right by k positions.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to perform a level-order traversal of a binary tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to perform a level-order traversal of a binary tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the lowest common ancestor in a binary search tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the lowest common ancestor in a binary search tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to convert a binary string to a decimal number.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to convert a binary string to a decimal number.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the maximum sum of a contiguous subarray.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the maximum sum of a contiguous sublist.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if a number is a perfect number.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if a number is a perfect number.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ class to implement a graph using an adjacency list and perform a BFS.\nRespond with code only.\n```",
+    "python_top": "Write a Python class to implement a graph using an adjacency list and perform a BFS.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ class to implement a graph using an adjacency list and perform a DFS.\nRespond with code only.\n```",
+    "python_top": "Write a Python class to implement a graph using an adjacency list and perform a DFS.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to remove the Nth node from the end of a linked list.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to remove the Nth node from the end of a linked list.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to merge two sorted linked lists.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to merge two sorted linked lists.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function for the Tower of Hanoi puzzle.\nRespond with code only.\n```",
+    "python_top": "Write a Python function for the Tower of Hanoi puzzle.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to evaluate a postfix expression.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to evaluate a postfix expression.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to convert a sorted array to a balanced binary search tree.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to convert a sorted list to a balanced binary search tree.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ class to implement a Min-Heap.\nRespond with code only.\n```",
+    "python_top": "Write a Python class to implement a Min-Heap.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that sorts an array using heap sort.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that sorts a list using heap sort.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that converts a string to an integer.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that converts a string to an integer.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the longest palindromic substring.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the longest palindromic substring.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to check if a number is an Armstrong number.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to check if a number is an Armstrong number.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function for the climbing stairs problem.\nRespond with code only.\n```",
+    "python_top": "Write a Python function for the climbing stairs problem.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the square root of a number using binary search.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the square root of a number using binary search.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to generate Pascal's triangle.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to generate Pascal's triangle.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that sorts an array using quicksort.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that sorts a list using quicksort.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that sorts an array using mergesort.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that sorts a list using mergesort.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to find the single element that appears once in an array where others appear twice.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to find the single element that appears once in a list where others appear twice.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function that converts a Roman numeral to an integer.\nRespond with code only.\n```",
+    "python_top": "Write a Python function that converts a Roman numeral to an integer.\nRespond with code only.\n```"
+  },
+  {
+    "cpp_top": "Write a C++ function to move all zeros to the end of an array.\nRespond with code only.\n```",
+    "python_top": "Write a Python function to move all zeros to the end of a list.\nRespond with code only.\n```"
+  }
+]
