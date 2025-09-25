@@ -64,7 +64,7 @@ The prompts are taken from `prompt_set/` directory and the characteristic token 
 Output of this notebook is stored in `full_compute/` as json files for each model. 
 
 ### 3. Graph Generation 
-The notebook `03_graph_generator.ipynb` processes outpuut from `full_compute/` to generate required graphs in the `graphs/` directory. 
+The notebook `03_graph_generator.ipynb` processes output from `full_compute/` to generate required graphs in the `graphs/` directory. 
 
 ### 4. Prompt Visualization
- 
+To visualize the outputs of different models on the prompt set, you can play with this notebook. 
